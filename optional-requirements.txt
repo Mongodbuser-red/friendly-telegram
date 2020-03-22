@@ -66,4 +66,4 @@ git+https://gitlab.com/mattia.basaglia/tgs@master
 coffeehouse >= 2.2.0
 asyncurban
 search-engine-parser >= 0.5.3
-
+covid
